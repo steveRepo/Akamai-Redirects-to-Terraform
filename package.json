@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "array-2-object": "^1.1.0",
+    "array-into-string": "^5.0.0",
+    "array-object-transformer": "^0.0.3",
+    "jmespath": "^0.16.0",
+    "lodash": "^4.17.21",
+    "stringify-object": "^4.0.1",
+    "terraform-generator": "^5.2.0"
+  },
+  "devDependencies": {
+    "arr-to-object": "^0.3.0"
+  }
+}
