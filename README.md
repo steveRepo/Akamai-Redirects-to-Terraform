@@ -6,7 +6,9 @@ See this doc for more details on matching subpaths etc: https://developers.cloud
 
 Input file must be named akamai.json in the same directory.
 
-To run: $ node akamai2cloudflare.js
+To run: $ node akamai2cloudflare2.js
+
+Note: akamai2cloudflare and akamai2cloudflare1 are for reference, akamai2cloudflare2.js is current.
 
 Outputs a terraform.tf file in the outputDir for insertion into a TF config diretory. Obs rename as desired ie (list.tf)
 
